@@ -1,0 +1,9 @@
+gcgctgggcggcactttgatttgggagagacttatgacatcgtttagaaccgccccgcgcctagtctacctcaaaaagtttaacgttgataaaatgtatcatcatagccccagcgttggtcggggcacatacagaccaagaaggtcaaagcgtgtttgtggtcgctatgacagactggccgcaccgggtgctgttccgtgaattcctaggactctctagtaaccaactaagtcacggctacatctcatttgccgaagcgtgcgaggcgggaatatgaggtcttcaacccgtctccggggatgagggccactcccactgctgtaaagacatatcgtgtactacgaccgttcgactttttccctcttctta
+tgcgaggcgggaatatgaggtttaacccgtcccggggatgcagggccattcccact
+
+tgcgaggcgggaatatgaggtcttcaacccgtctccggggatg-agggccactcccact
+||||||||||||||||||||| || |||||||| ||||||||| |||||||.|||||||
+tgcgaggcgggaatatgaggt-tt-aacccgtc-ccggggatgcagggccattcccact
+
+
+Score=415 for Match=8, mismatch = -5, gap = -3
